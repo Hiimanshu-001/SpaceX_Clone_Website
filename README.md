@@ -1,2 +1,2 @@
 # SpaceX_Clone_Website
-This is clone website of spaceX.
+This is a clone website of spaceX.
